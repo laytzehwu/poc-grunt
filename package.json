@@ -1,0 +1,23 @@
+{
+  "name": "poc-grunt",
+  "version": "1.0.0",
+  "description": "Bootstrap with grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laytzehwu/poc-grunt"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Lay Tzeh Wu",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.0.1"
+  }
+}
